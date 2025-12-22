@@ -14,14 +14,19 @@ _As a [user role], I want [feature/goal], so that [reason]._
 
 ## ADMIN USER STORIES ##
 **Issue 1: Admin Login**
+
 **Title:**
 As an admin, I want to log into the portal using my username and password, so that I can securely manage the platform.
+
 **Acceptance Criteria:**
 1. Admin can enter a valid username and password to log in.
 2. Invalid credentials display an appropriate error message.
 3. Successful login redirects the admin to the admin dashboard.
+
 **Priority:** High
+
 **Story Points:** 5
+
 **Notes:**
 1. Passwords must be securely stored and validated.
 2. Session should expire after inactivity.
